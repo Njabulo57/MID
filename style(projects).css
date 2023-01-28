@@ -234,6 +234,7 @@ section{
     transition: .3s;
     font-size: 1.5rem;
     cursor: pointer;
+    color: black;
 }
 
 .tab button:hover{
